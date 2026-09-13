@@ -3,6 +3,6 @@
 @media(max-width:760px){:root .vnav nav a{font-size:17px}}
 
 /* Keep the opening screen compact: the portrait, rather than empty space, sets its height. */
-:root .hero-v2{min-height:0;align-items:center;padding:42px 0 52px}
-:root .portrait{height:400px}
-@media(max-width:760px){:root .hero-v2{min-height:0;padding:38px 0 46px;gap:32px}:root .portrait{height:330px}}
+:root .hero-v2{min-height:0;align-items:center;padding:24px 0 42px}
+:root .portrait{height:380px}
+@media(max-width:760px){:root .hero-v2{min-height:0;padding:28px 0 40px;gap:28px}:root .portrait{height:310px}}

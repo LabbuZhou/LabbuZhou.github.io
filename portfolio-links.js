@@ -4,7 +4,7 @@ document.querySelector('.hero-links a[href="#research"]')?.remove();
 document.querySelector('.hero-links a[href="cv.pdf"]')?.remove();
 document.querySelector(".hero-v2")?.setAttribute("id", "about");
 const navigation = document.querySelector(".vnav nav");
-if (navigation) navigation.innerHTML = '<a href="#about">About</a><a href="#research">Research</a><a href="#path">Education</a><a href="papers.html">Papers</a><a href="cv.html">CV</a><a href="#contact">Contact</a>';
+if (navigation) navigation.innerHTML = '<a href="#about">About</a><a href="#research">Research</a><a href="#path">Education</a><a href="#papers">Papers</a><a href="cv.html">CV</a><a href="#contact">Contact</a>';
 const brand = document.querySelector(".vbrand");
 brand?.remove();
 

@@ -6,7 +6,7 @@ document.body.innerHTML = `
         <a href="#about">About</a>
         <a href="#research">Research</a>
         <a href="#path">Education</a>
-        <a href="papers.html">Papers</a>
+        <a href="#papers">Papers</a>
         <a href="cv.html">CV</a>
         <a href="#contact">Contact</a>
       </nav>

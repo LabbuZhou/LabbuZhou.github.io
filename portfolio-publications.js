@@ -19,7 +19,7 @@ document.head.append(publicationLinkStyles);
 
 const papersSection = document.querySelector("#papers");
 if (papersSection) {
-  papersSection.innerHTML = `<div class="section-head"><h2>Selected Papers</h2></div>${publicationRows.map(({ title, venue, url }) => {
+  papersSection.innerHTML = `<div class="section-head"><h2>Papers</h2></div>${publicationRows.map(({ title, venue, url }) => {
     const paperTitle = url ? `<a href="${url}" target="_blank" rel="noopener" aria-label="Open ${title}">${title}</a>` : title;
     return `<div class="paper-row"><h4>${paperTitle}</h4><p>${venue}</p></div>`;
   }).join("")}`;

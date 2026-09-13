@@ -7,6 +7,7 @@ const directionCards = [
   {
     label: "Research direction 02",
     title: "Accessibility, Mobility & Urban Equity",
+    project: { label: "Explore the 15-Minute Proximity Atlas of Chinese Cities", url: "https://labbuzhou.github.io/China15MinutesCities/" },
     text: "<span class=\"direction-quote\">\u201cCities have the capability of providing something for everybody, only because, and only when, they are created by everybody.\u201d<small>\u2014 Jane Jacobs</small></span>Access to opportunities is not fixed: it changes with daily rhythms, transport supply, and the social position of travellers. I study when mobility systems reproduce or widen urban inequality.<br><br>I integrate spatiotemporal accessibility measures, mobility-demand data, and interpretable modelling to identify who faces double disadvantage and where those patterns emerge.<br><br>Accessibility inequality, temporal access to opportunities, urban mobility demand, and equitable transport policy evaluation."
   },
   {
@@ -17,7 +18,7 @@ const directionCards = [
 ];
 
 const directionQuoteStyles = document.createElement("style");
-directionQuoteStyles.textContent = ".direction-quote{display:block;margin:0 0 1.25rem;padding:0 0 0 .9rem;border-left:2px solid var(--accent,#c78b55);font-family:Georgia,serif;font-size:1.06em;line-height:1.5;color:var(--ink,#f1eee8)}.direction-quote small{display:block;margin-top:.45rem;font-family:inherit;font-size:.72em;letter-spacing:.035em;color:var(--muted,#a8aaa4)}";
+directionQuoteStyles.textContent = ".direction-quote{display:block;margin:0 0 1.25rem;padding:0 0 0 .9rem;border-left:2px solid var(--accent,#c78b55);font-family:Georgia,serif;font-size:1.06em;line-height:1.5;color:var(--ink,#f1eee8)}.direction-quote small{display:block;margin-top:.45rem;font-family:inherit;font-size:.72em;letter-spacing:.035em;color:var(--muted,#a8aaa4)}.direction-project{display:inline-block;margin-top:1.35rem;color:var(--lime,#c9f36b);font-size:.82rem;font-weight:700;text-decoration:none}.direction-project:hover,.direction-project:focus-visible{text-decoration:underline;text-underline-offset:.25em}";
 document.head.append(directionQuoteStyles);
 
 document.querySelectorAll(".feature-copy").forEach((card, index) => {
@@ -27,4 +28,5 @@ document.querySelectorAll(".feature-copy").forEach((card, index) => {
   card.querySelector("h4").textContent = data.title;
   card.querySelector("p").innerHTML = data.text;
   card.querySelector("a")?.remove();
+  if (data.project) card.insertAdjacentHTML("beforeend", `<a class="direction-project" href="${data.project.url}" target="_blank" rel="noopener">${data.project.label} ↗</a>`);
 });

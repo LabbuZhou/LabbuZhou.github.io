@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://labbuzhou.github.io/sitemap.xml

@@ -1,0 +1,325 @@
+﻿{
+    "generatedAt":  "2026-09-13T13:27:36.7129054Z",
+    "publications":  [
+                         {
+                             "id":  "scoring-rule-theory",
+                             "slug":  "a-strictly-proper-scoring-rule-theory-for-calibrating-stochastic-car-fol-scoring-rule-theory",
+                             "title":  "A Strictly Proper Scoring-Rule Theory for Calibrating Stochastic Car-Following Models",
+                             "type":  "preprint",
+                             "year":  "2026",
+                             "date":  "2026-09-04",
+                             "venue":  "arXiv preprint",
+                             "doi":  "",
+                             "doiUrl":  "",
+                             "arxivId":  "2609.04988",
+                             "arxivUrl":  "https://arxiv.org/abs/2609.04988",
+                             "url":  "https://arxiv.org/abs/2609.04988",
+                             "paperUrl":  "",
+                             "codeUrl":  "",
+                             "dataUrl":  "",
+                             "pdfUrl":  "",
+                             "authors":  [
+                                             "Shiteng Zheng",
+                                             "Junfang Tian",
+                                             "Rui Jiang"
+                                         ],
+                             "tags":  [
+
+                                      ],
+                             "summary":  ""
+                         },
+                         {
+                             "id":  "driving-research",
+                             "slug":  "towards-experiment-driven-and-ai-enhanced-driving-behavioral-research-driving-research",
+                             "title":  "Towards Experiment-Driven and AI-Enhanced Driving Behavioral Research",
+                             "type":  "published",
+                             "year":  "2026",
+                             "date":  "2026-08-23",
+                             "venue":  "Engineering Management",
+                             "doi":  "10.1007/s42524-026-6043-0",
+                             "doiUrl":  "https://doi.org/10.1007/s42524-026-6043-0",
+                             "arxivId":  "",
+                             "arxivUrl":  "",
+                             "url":  "https://doi.org/10.1007/s42524-026-6043-0",
+                             "paperUrl":  "",
+                             "codeUrl":  "",
+                             "dataUrl":  "",
+                             "pdfUrl":  "",
+                             "authors":  [
+                                             "Junzhe Ding",
+                                             "Xiqun (Michael) Chen",
+                                             "Shiteng Zheng",
+                                             "Junfang Tian",
+                                             "Rui Jiang",
+                                             "Shoufeng Ma"
+                                         ],
+                             "tags":  [
+
+                                      ],
+                             "summary":  ""
+                         },
+                         {
+                             "id":  "systems-calibration",
+                             "slug":  "a-structured-framework-for-calibrating-stochastic-car-following-models-d-systems-calibration",
+                             "title":  "A Structured Framework for Calibrating Stochastic Car-Following Models: Data Adequacy, Parameter Sensitivity, and Objective Selection",
+                             "type":  "preprint",
+                             "year":  "2026",
+                             "date":  "2026-08-19",
+                             "venue":  "arXiv preprint",
+                             "doi":  "",
+                             "doiUrl":  "",
+                             "arxivId":  "2608.18944",
+                             "arxivUrl":  "https://arxiv.org/abs/2608.18944",
+                             "url":  "https://arxiv.org/abs/2608.18944",
+                             "paperUrl":  "",
+                             "codeUrl":  "",
+                             "dataUrl":  "",
+                             "pdfUrl":  "",
+                             "authors":  [
+                                             "Anci Shi",
+                                             "Junzhe Ding",
+                                             "Junfang Tian",
+                                             "Shiteng Zheng",
+                                             "Rui Jiang"
+                                         ],
+                             "tags":  [
+
+                                      ],
+                             "summary":  ""
+                         },
+                         {
+                             "id":  "adaptive-variability",
+                             "slug":  "human-adaptive-variability-stabilises-collective-traffic-dynamics-adaptive-variability",
+                             "title":  "Human adaptive variability stabilises collective traffic dynamics",
+                             "type":  "preprint",
+                             "year":  "2026",
+                             "date":  "2026-08-10",
+                             "venue":  "arXiv preprint",
+                             "doi":  "",
+                             "doiUrl":  "",
+                             "arxivId":  "2606.26868",
+                             "arxivUrl":  "https://arxiv.org/abs/2606.26868",
+                             "url":  "https://arxiv.org/abs/2606.26868",
+                             "paperUrl":  "",
+                             "codeUrl":  "",
+                             "dataUrl":  "",
+                             "pdfUrl":  "",
+                             "authors":  [
+                                             "Ching Jin",
+                                             "Junfang Tian",
+                                             "Shiteng Zheng",
+                                             "Rui Jiang",
+                                             "Shiquan Zhong",
+                                             "Shoufeng Ma",
+                                             "Vittorio Loreto"
+                                         ],
+                             "tags":  [
+
+                                      ],
+                             "summary":  ""
+                         },
+                         {
+                             "id":  "urban-equity",
+                             "slug":  "the-moving-target-of-urban-equity-spatiotemporal-demand-and-double-disad-urban-equity",
+                             "title":  "The Moving Target of Urban Equity: Spatiotemporal Demand and Double Disadvantage In Hefei, China",
+                             "type":  "preprint",
+                             "year":  "2026",
+                             "date":  "2026-08-07",
+                             "venue":  "arXiv preprint",
+                             "doi":  "",
+                             "doiUrl":  "",
+                             "arxivId":  "2606.20132",
+                             "arxivUrl":  "https://arxiv.org/abs/2606.20132",
+                             "url":  "https://arxiv.org/abs/2606.20132",
+                             "paperUrl":  "",
+                             "codeUrl":  "",
+                             "dataUrl":  "",
+                             "pdfUrl":  "",
+                             "authors":  [
+                                             "Matteo Bruno",
+                                             "Mattia Mazzoli",
+                                             "Junfang Tian",
+                                             "Rui Jiang",
+                                             "Enwan Zhang",
+                                             "Zheng Li",
+                                             "Vittorio Loreto"
+                                         ],
+                             "tags":  [
+
+                                      ],
+                             "summary":  ""
+                         },
+                         {
+                             "id":  "idm25",
+                             "slug":  "twenty-five-years-of-the-intelligent-driver-model-foundations-extensions-idm25",
+                             "title":  "Twenty-Five Years of the Intelligent Driver Model: Foundations, Extensions, Applications, and Future Directions",
+                             "type":  "preprint",
+                             "year":  "2026",
+                             "date":  "2026-04-19",
+                             "venue":  "arXiv preprint",
+                             "doi":  "",
+                             "doiUrl":  "",
+                             "arxivId":  "2506.05909",
+                             "arxivUrl":  "https://arxiv.org/abs/2506.05909",
+                             "url":  "https://arxiv.org/abs/2506.05909",
+                             "paperUrl":  "",
+                             "codeUrl":  "",
+                             "dataUrl":  "",
+                             "pdfUrl":  "",
+                             "authors":  [
+                                             "Shiteng Zheng",
+                                             "Junfang Tian",
+                                             "Rui Jiang",
+                                             "H. M. Zhang"
+                                         ],
+                             "tags":  [
+
+                                      ],
+                             "summary":  ""
+                         },
+                         {
+                             "id":  "heterogeneity",
+                             "slug":  "a-driving-regime-embedded-deep-learning-framework-for-modeling-intradriv-heterogeneity",
+                             "title":  "A Driving Regime-Embedded Deep Learning Framework for Modeling Intradriver Heterogeneity in Multiscale Car-Following Dynamics",
+                             "type":  "published",
+                             "year":  "2026",
+                             "date":  "2026-02-11",
+                             "venue":  "IEEE Transactions on Cybernetics",
+                             "doi":  "10.1109/tcyb.2026.3660643",
+                             "doiUrl":  "https://doi.org/10.1109/tcyb.2026.3660643",
+                             "arxivId":  "2506.05902",
+                             "arxivUrl":  "https://arxiv.org/abs/2506.05902",
+                             "url":  "https://doi.org/10.1109/tcyb.2026.3660643",
+                             "paperUrl":  "https://doi.org/10.1109/tcyb.2026.3660643",
+                             "codeUrl":  "",
+                             "dataUrl":  "",
+                             "pdfUrl":  "",
+                             "authors":  [
+                                             "Shirui Zhou",
+                                             "Jiying Yan",
+                                             "Junfang Tian",
+                                             "Tao Wang",
+                                             "Yongfu Li",
+                                             "Shiquan Zhong"
+                                         ],
+                             "tags":  [
+
+                                      ],
+                             "summary":  ""
+                         },
+                         {
+                             "id":  "ca-book",
+                             "slug":  "celluar-automaton-approach-for-modeling-traffic-system-ca-book",
+                             "title":  "Celluar Automaton Approach for Modeling Traffic System",
+                             "type":  "published",
+                             "year":  "2025",
+                             "date":  "2025-06-04",
+                             "venue":  "Springer",
+                             "doi":  "10.1007/978-3-031-81097-8_10",
+                             "doiUrl":  "https://doi.org/10.1007/978-3-031-81097-8_10",
+                             "arxivId":  "",
+                             "arxivUrl":  "",
+                             "url":  "https://doi.org/10.1007/978-3-031-81097-8_10",
+                             "paperUrl":  "https://doi.org/10.1007/978-3-031-81097-8_10",
+                             "codeUrl":  "",
+                             "dataUrl":  "",
+                             "pdfUrl":  "",
+                             "authors":  [
+                                             "Junfang Tian",
+                                             "Shirui Zhou",
+                                             "Bin Jia"
+                                         ],
+                             "tags":  [
+
+                                      ],
+                             "summary":  ""
+                         },
+                         {
+                             "id":  "stochastic-calibration",
+                             "slug":  "on-the-calibration-of-stochastic-car-following-models-stochastic-calibration",
+                             "title":  "On the Calibration of Stochastic Car Following Models",
+                             "type":  "published",
+                             "year":  "2025",
+                             "date":  "2025-06-01",
+                             "venue":  "Transportation Research Part B",
+                             "doi":  "10.1016/j.trb.2025.103224",
+                             "doiUrl":  "https://doi.org/10.1016/j.trb.2025.103224",
+                             "arxivId":  "2302.04648",
+                             "arxivUrl":  "https://arxiv.org/abs/2302.04648",
+                             "url":  "https://doi.org/10.1016/j.trb.2025.103224",
+                             "paperUrl":  "https://doi.org/10.1016/j.trb.2025.103224",
+                             "codeUrl":  "",
+                             "dataUrl":  "",
+                             "pdfUrl":  "",
+                             "authors":  [
+                                             "Shirui Zhou",
+                                             "Shiteng Zheng",
+                                             "Tu Xu",
+                                             "Martin Treiber",
+                                             "Junfang Tian",
+                                             "Rui Jiang"
+                                         ],
+                             "tags":  [
+
+                                      ],
+                             "summary":  ""
+                         },
+                         {
+                             "id":  "emissions",
+                             "slug":  "experimental-features-of-emissions-and-fuel-consumption-in-a-car-followi-emissions",
+                             "title":  "Experimental Features of Emissions and Fuel Consumption In a Car-Following Platoon",
+                             "type":  "published",
+                             "year":  "2023",
+                             "date":  "2023-08-01",
+                             "venue":  "Transportation Research Part D",
+                             "doi":  "10.1016/j.trd.2023.103823",
+                             "doiUrl":  "https://doi.org/10.1016/j.trd.2023.103823",
+                             "arxivId":  "2305.00750",
+                             "arxivUrl":  "https://arxiv.org/abs/2305.00750",
+                             "url":  "https://doi.org/10.1016/j.trd.2023.103823",
+                             "paperUrl":  "https://doi.org/10.1016/j.trd.2023.103823",
+                             "codeUrl":  "",
+                             "dataUrl":  "",
+                             "pdfUrl":  "",
+                             "authors":  [
+                                             "Shirui Zhou",
+                                             "Junfang Tian",
+                                             "Ying-En Ge",
+                                             "Shaowei Yu",
+                                             "Rui Jiang"
+                                         ],
+                             "tags":  [
+
+                                      ],
+                             "summary":  ""
+                         },
+                         {
+                             "id":  "cellular-automaton",
+                             "slug":  "cellular-automaton-model-with-the-multi-anticipative-effect-to-reproduce-cellular-automaton",
+                             "title":  "Cellular Automaton Model With the Multi-Anticipative Effect To Reproduce the Empirical Findings of Kerner\u0027s Three-Phase Traffic Theory",
+                             "type":  "published",
+                             "year":  "2022",
+                             "date":  "2022-06-15",
+                             "venue":  "Physica A",
+                             "doi":  "10.1016/j.physa.2022.127162",
+                             "doiUrl":  "https://doi.org/10.1016/j.physa.2022.127162",
+                             "arxivId":  "",
+                             "arxivUrl":  "",
+                             "url":  "https://doi.org/10.1016/j.physa.2022.127162",
+                             "paperUrl":  "https://doi.org/10.1016/j.physa.2022.127162",
+                             "codeUrl":  "",
+                             "dataUrl":  "",
+                             "pdfUrl":  "",
+                             "authors":  [
+                                             "Shirui Zhou",
+                                             "Shuai Ling",
+                                             "Chenqiang Zhu",
+                                             "Junfang Tian"
+                                         ],
+                             "tags":  [
+
+                                      ],
+                             "summary":  ""
+                         }
+                     ]
+}

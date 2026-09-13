@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#11151e">
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="assets/favicon.svg">
+  <link rel="canonical" href="https://labbuzhou.github.io/papers.html">
+  <meta name="description" content="Published papers and public arXiv preprints by Shirui Zhou.">
+  <meta property="og:title" content="Papers | Shirui Zhou">
+  <meta property="og:description" content="Published papers and public arXiv preprints by Shirui Zhou.">
+  <meta property="og:url" content="https://labbuzhou.github.io/papers.html">
+  <title>Papers | Shirui Zhou</title>
+  <link rel="stylesheet" href="public-pages.css">
+</head>
+<body>
+  <div class="shell">
+    <header class="site-header">
+      <a class="identity" href="index.html">SHIRUI ZHOU</a>
+      <nav class="site-nav" aria-label="Primary navigation">
+        <a href="index.html">Home</a>
+        <a href="index.html#research">Research</a>
+        <a href="index.html#path">Education</a>
+        <a href="papers.html" aria-current="page">Papers</a>
+        <a href="cv.html">CV</a>
+        <a href="index.html#contact">Contact</a>
+      </nav>
+    </header>
+    <main>
+      <section class="page-intro">
+        <span class="eyebrow">Research record</span>
+        <h1>Papers</h1>
+        <p class="lede">Published work and public arXiv preprints across traffic dynamics, urban mobility, and transportation-energy systems.</p>
+      </section>
+      <section aria-label="Paper filters">
+        <div class="controls">
+          <input class="input" id="paperSearch" type="search" autocomplete="off" placeholder="Search title, author, or topic">
+          <select class="select" id="typeFilter" aria-label="Filter by record type">
+            <option value="all">All records</option>
+            <option value="published">Published</option>
+            <option value="preprint">arXiv preprints</option>
+          </select>
+          <select class="select" id="yearFilter" aria-label="Filter by year"><option value="all">All years</option></select>
+        </div>
+        <p class="result-count" id="publicationCount" aria-live="polite">Loading papers…</p>
+        <div class="paper-grid" id="papersGrid"></div>
+      </section>
+    </main>
+    <footer class="site-footer">© 2026 Shirui Zhou</footer>
+  </div>
+  <script src="papers-page.js"></script>
+</body>
+</html>

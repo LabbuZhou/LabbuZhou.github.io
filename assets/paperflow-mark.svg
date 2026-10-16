@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Shirui Zhou mark">
+  <rect width="64" height="64" rx="16" fill="#172331"/>
+  <path d="M18 18h29L18 46h29" fill="none" stroke="#f2f0ea" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+  <circle cx="48" cy="17" r="4" fill="#b9eb57"/>
+</svg>
